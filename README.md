@@ -12,7 +12,7 @@ In parallel, I bring a deep background in the arts—as a musician, recording en
 - AI-first workflows in development
 - Automation for LRS/LMS platforms
 - Data pipelines in healthcare edtech
-- Process automation with AT tools
+- Process automation with AI tools
 
 ---
 
